@@ -1,0 +1,19 @@
+CATALOGO DE PRODUCTOS
+=============================================
+COD   PRODUCTO                    PRECIO  CATEGORIA
+---------------------------------------------
+001   Leche 1L                  $ 150.00  Lacteos
+002   Yogur Natural             $  90.00  Lacteos
+003   Pan de Molde              $ 120.00  Panaderia
+004   Medialunas x6             $ 200.00  Panaderia
+005   Manzanas 1kg              $ 180.00  Frutas y Verduras
+006   Bananas 1kg               $ 130.00  Frutas y Verduras
+007   Arroz 1kg                 $ 250.00  Almacen [10% OFF]
+008   Fideos 500g               $ 140.00  Almacen
+009   Aceite 900ml              $ 450.00  Almacen
+010   Gaseosa 2L                $ 350.00  Bebidas [15% OFF]
+011   Agua Mineral 2L           $  80.00  Bebidas
+012   Jabon en Polvo            $ 600.00  Limpieza [20% OFF]
+013   Detergente 500ml          $ 280.00  Limpieza
+014   Shampoo 400ml             $ 380.00  Higiene
+015   Papel Higienico           $ 320.00  Higiene
