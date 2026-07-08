@@ -23,3 +23,9 @@ Simulador de caja de supermercado ejecutado por consola. El sistema gestiona el 
 ## Uso de Inteligencia Artificial
 * **Herramienta:** Gemini.
 * **Uso:** Auditoría del código fuente para la detección de errores lógicos en el flujo de caja, corrección en la actualización de las estadísticas globales de ventas y estructuración técnica del repositorio Git.
+
+## Enlaces:
+* **Video:** 
+https://www.youtube.com/watch?v=5KqBbPZS5qM`
+* **Repositorio:** 
+https://github.com/Roberto-JLopez/Tp-final-Python-.git
