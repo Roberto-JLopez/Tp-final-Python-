@@ -26,6 +26,6 @@ Simulador de caja de supermercado ejecutado por consola. El sistema gestiona el 
 
 ## Enlaces:
 * **Video:** 
-https://www.youtube.com/watch?v=5KqBbPZS5qM`
+https://www.youtube.com/watch?v=9qcErdPOW9I
 * **Repositorio:** 
 https://github.com/Roberto-JLopez/Tp-final-Python-.git
